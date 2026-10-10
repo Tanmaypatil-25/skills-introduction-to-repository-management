@@ -1,0 +1,7 @@
+# Core functionality
+/src/app.py                   @Tanmaypatil-25
+/src/backend/database.py      @Tanmaypatil-25
+/src/backend/routers/auth.py  @Tanmaypatil-25
+
+# Frontend
+/src/static/                  @Tanmaypatil-25
