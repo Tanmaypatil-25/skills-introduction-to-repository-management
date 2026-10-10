@@ -23,3 +23,5 @@ htmlcov/
 # Staff computer files
 .DS_Store
 Thumbs.db
+
+# Repository management exercise configuration
